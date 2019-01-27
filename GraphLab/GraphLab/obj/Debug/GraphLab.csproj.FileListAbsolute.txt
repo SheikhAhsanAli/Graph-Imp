@@ -1,0 +1,6 @@
+c:\users\dua comunication\documents\visual studio 2015\Projects\GraphLab\GraphLab\bin\Debug\GraphLab.exe.config
+c:\users\dua comunication\documents\visual studio 2015\Projects\GraphLab\GraphLab\bin\Debug\GraphLab.exe
+c:\users\dua comunication\documents\visual studio 2015\Projects\GraphLab\GraphLab\bin\Debug\GraphLab.pdb
+c:\users\dua comunication\documents\visual studio 2015\Projects\GraphLab\GraphLab\obj\Debug\GraphLab.csprojResolveAssemblyReference.cache
+c:\users\dua comunication\documents\visual studio 2015\Projects\GraphLab\GraphLab\obj\Debug\GraphLab.exe
+c:\users\dua comunication\documents\visual studio 2015\Projects\GraphLab\GraphLab\obj\Debug\GraphLab.pdb
